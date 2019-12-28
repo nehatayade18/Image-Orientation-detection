@@ -1,5 +1,4 @@
-# ntayade-sachath-a4
-a4 created for ntayade-sachath
+
 
 ### Classifier 2: Neural Net
 Here the model is trained from the trainsets and tested on the test data for correctly identifying the orientation of images with the rotation labels. The model is architectured to setting the parameters on forward activation and then forward propagation and then tuning these on the feedback adjusted through the feedback networks. The error is adjusted on the basis of a cross entropy error calculated for each set of propagations. 
